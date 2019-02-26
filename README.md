@@ -31,7 +31,7 @@ Belajar PHP
   
   Membuat Menu Login :
  
-  ![alt text](https://github.com/Dhimas46/Modul-PHP-5/blob/master/login/Login.JPG0)
+  ![alt text](https://github.com/Dhimas46/Modul-PHP-5/blob/master/login/Login.JPG)
   
   Praktikum Limas Segitiga :
   
