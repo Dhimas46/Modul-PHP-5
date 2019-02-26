@@ -1,7 +1,8 @@
 # Modul-PHP-5
 Belajar PHP
 
-1.Fungsi Menurut saya digunakan untuk menyimpan sebuah parameter yang nantinya akan dipanggil pada saat pemanggilan fungsi tersebut
+1.Function digunakan untuk menyimpan parameter lalu function dapat di panggil berkali kali untuk melakukan tugas nya yaitu menampilkan
+sebuah parameter tersebut melalui echo
 
 
 2.-Fungsi dengan Parameter  Parameter digunakan sebagai input untuk fungsi yang selanjutnya diolah oleh fungsi tersebut. Jumlah parameter dari fungsi boleh lebih dari satu. Untuk memisahkan antar parameter digunakan tanda koma (,). 
